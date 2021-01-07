@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqXqJ+A3s4NEuxva4s0g2UUS4ztSczwtv/J40uG73qIpy0Q5rI0uaXhMKU31F/FCvN8egl+kRYEjAu8663LxhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sezer\\Desktop\\Yazılım Sınama ÖDevi\\Ödev 1\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sezer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sezer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
